@@ -1,0 +1,20 @@
+<!-- 
+    - levels.xml
+    - Containing Level Questions, Answers, Photos etc...
+    -
+    - Author :- Ujjwal Bhardwaj
+ -->
+<levels>
+    <level id = "0">
+        <quote><!--Any specific quote defining the question --></quote>
+        <photo>img/levels/image.jpg<!--Relevant Photo--></photo>
+        <question></question>
+        <answer><!--Hashed Answer--></answer>
+    </level>
+    <level id = "1">
+        <quote />
+        <photo />
+        <question />
+        <answer />
+    </level>
+</levels>
