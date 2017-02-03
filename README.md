@@ -1,2 +1,2 @@
 # digihuntrex
-demo online at http://www.digihuntrex.tk
+demo online at http://www.digihuntrex.ga
